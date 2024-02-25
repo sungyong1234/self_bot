@@ -1,5 +1,5 @@
-접두사 = "?"
-사람토큰 = ""
+접두사 = "&&"
+사람토큰 = "MTE5ODkwMDE4MDg2NzYxMjY3Mw.G6YOEE.DgEMG0N-x0RIEP7q5-UZ0xLebOKBgQEiCCzhqU"
 상메무한반복 = False #True or False
 상메1 = '24시간 `셀프봇` 가동중 ✅    '
 상메2 = '망치토큰커뮤니티 서버입장'
